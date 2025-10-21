@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+git is pretty sick
